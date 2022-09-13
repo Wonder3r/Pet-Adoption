@@ -1,2 +1,2 @@
 # Pet-Adoption
- sample website for a non-profit adpotion website 
+ sample website for a non-profit adoption website 
